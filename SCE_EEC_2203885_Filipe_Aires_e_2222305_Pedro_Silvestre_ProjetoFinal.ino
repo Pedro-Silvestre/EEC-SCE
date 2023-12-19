@@ -1,3 +1,11 @@
+/*Nome ALUNO A- Filipe Fernandes Aires 2203885
+Nome ALUNO B- Pedro da Silva Silvestre 2222305
+IPLEIRIA - Instituto Politécnico de Leiria
+ESTG - Escola Superior de Tecnologia e Gestão
+LEEC- Licenciatura em Engenharia Eletrotécnica e de Computadores
+https://youtu.be/K9-JdjfxsjA
+*/
+
 #include "Arduino.h"
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
